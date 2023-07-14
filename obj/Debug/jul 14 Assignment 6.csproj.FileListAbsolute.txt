@@ -1,0 +1,7 @@
+D:\exercises\14-7\jul 14 Assignment 6\jul 14 Assignment 6\bin\Debug\jul 14 Assignment 6.exe.config
+D:\exercises\14-7\jul 14 Assignment 6\jul 14 Assignment 6\bin\Debug\jul 14 Assignment 6.exe
+D:\exercises\14-7\jul 14 Assignment 6\jul 14 Assignment 6\bin\Debug\jul 14 Assignment 6.pdb
+D:\exercises\14-7\jul 14 Assignment 6\jul 14 Assignment 6\obj\Debug\jul 14 Assignment 6.csproj.AssemblyReference.cache
+D:\exercises\14-7\jul 14 Assignment 6\jul 14 Assignment 6\obj\Debug\jul 14 Assignment 6.csproj.CoreCompileInputs.cache
+D:\exercises\14-7\jul 14 Assignment 6\jul 14 Assignment 6\obj\Debug\jul 14 Assignment 6.exe
+D:\exercises\14-7\jul 14 Assignment 6\jul 14 Assignment 6\obj\Debug\jul 14 Assignment 6.pdb
